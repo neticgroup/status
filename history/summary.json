@@ -1,20 +1,40 @@
 [
   {
     "name": "NETIC 360 FrontEnd",
-    "url": "https://netic.app",
-    "icon": "https://favicons.githubusercontent.com/netic.app",
+    "url": "https://netic.app/login",
+    "icon": "https://netic.app/favicon.ico",
     "slug": "netic-360-front-end",
     "status": "down",
-    "uptime": "3.78%",
-    "uptimeDay": "3.78%",
-    "uptimeWeek": "3.78%",
-    "uptimeMonth": "3.78%",
-    "uptimeYear": "3.78%",
-    "time": 133,
-    "timeDay": 133,
-    "timeWeek": 133,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
+    "time": 105,
+    "timeDay": 105,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
+    "dailyMinutesDown": {
+      "2022-02-09": 14
+    }
+  },
+  {
+    "name": "NETIC 360 API",
+    "url": "https://netic.app/api",
+    "icon": "https://netic.app/favicon.ico",
+    "slug": "netic-360-api",
+    "status": "down",
+    "uptime": "17.00%",
+    "uptimeDay": "17.00%",
+    "uptimeWeek": "17.00%",
+    "uptimeMonth": "17.00%",
+    "uptimeYear": "17.00%",
+    "time": 15,
+    "timeDay": 15,
+    "timeWeek": 15,
+    "timeMonth": 15,
+    "timeYear": 15,
     "dailyMinutesDown": {
       "2022-02-09": 0
     }
