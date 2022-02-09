@@ -4,22 +4,27 @@ repo: status # The name of this repository
 
 sites:
   - name: NETIC 360 FrontEnd
-    url: https://netic.app
+    url: https://netic.app/login
+    icon: https://netic.app/favicon.ico
+  - name: NETIC 360 API
+    url: https://netic.app/api
+    icon: https://netic.app/favicon.ico
+
+assignees:
+  - tjaoc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.netic360.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  logoUrl: https://netic.app/logo.png
+  name: Status NETIC 360
   introTitle: "**Status NETIC 360**"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from NETIC 360 App
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
