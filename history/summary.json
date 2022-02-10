@@ -5,18 +5,18 @@
     "icon": "https://netic.app/favicon.ico",
     "slug": "netic-360-front-end",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 105,
-    "timeDay": 105,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "uptime": "97.14%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "97.14%",
+    "time": 116,
+    "timeDay": 116,
+    "timeWeek": 116,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {
-      "2022-02-09": 14
+      "2022-02-09": 28
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://netic.app/favicon.ico",
     "slug": "netic-360-api",
     "status": "down",
-    "uptime": "7.79%",
-    "uptimeDay": "7.79%",
-    "uptimeWeek": "7.79%",
-    "uptimeMonth": "7.79%",
-    "uptimeYear": "7.79%",
-    "time": 15,
-    "timeDay": 15,
-    "timeWeek": 15,
-    "timeMonth": 15,
-    "timeYear": 15,
+    "uptime": "98.55%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 14,
+    "timeDay": 14,
+    "timeWeek": 14,
+    "timeMonth": 14,
+    "timeYear": 14,
     "dailyMinutesDown": {
-      "2022-02-09": 0
+      "2022-02-09": 14
     }
   }
 ]
